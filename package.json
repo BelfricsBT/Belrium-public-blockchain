@@ -11,7 +11,7 @@
     "array.prototype.find": "1.0.0",
     "array.prototype.findindex": "2.0.0",
     "async": "1.5.2",
-    "axios": "0.18.0",
+    "axios": "1.6.0",
     "bel-sandbox": "https://rajatkesharwani@bitbucket.org/rajatkesharwani/bel-sandbox.git",
     "belrium-js": "https://github.com/rajatkeshar/chain-js.git",
     "bignumber": "https://github.com/AschPlatform/bignumber/tarball/master",
